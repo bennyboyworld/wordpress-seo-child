@@ -6,7 +6,6 @@ Yoast SEO WordPress child plugin is built for the parent plugin: Yoast SEO.
 
 /*
 * Plugin Name: Yoast SEO Child Plugin
-
 * Plugin URI: https://www.wordpressdeveloperlondon.com/yoast-seo/
 
 * Description: ...
